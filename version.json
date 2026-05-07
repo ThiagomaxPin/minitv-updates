@@ -1,6 +1,6 @@
 {
     "version": "1.0",
     "release_date": "2025-05-07",
-    "url": "https://github.com/ThiagomaxPin/minitv-updates/releases/download/V1.0/MiniTV_Pinball.bin",
+    "url": "https://github.com/ThiagomaxPin/minitv-updates/releases/download/V1.1/MiniTV_Pinball.bin",
     "changelog": "Versao inicial - player MJPEG, LED RGB, suporte OTA via SD"
 }
